@@ -1,0 +1,14 @@
+{
+    "name": "worker_threads",
+    "version": "1.0.0",
+    "description": "Node.js Worker Threads explained",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Sumit Saha, Learn with Sumit",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.2"
+    }
+}
